@@ -1,6 +1,6 @@
 name: "Hermes Agent"
 description: "Nous Research self-improving AI agent with learning loop, API gateway, and web terminal."
-version: "1.1.0"
+version: "1.2.0"
 slug: "hermes_agent"
 init: false
 arch:
